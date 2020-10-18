@@ -1,0 +1,1 @@
+F:\UWP\Lab007\Lab007\Lab007.csproj;x86

@@ -1,1 +1,1 @@
-F:\UWP\U41\U41\U41.csproj;x86
+F:\UWP\Lab07_UWP\U41\U41\U41.csproj;x86

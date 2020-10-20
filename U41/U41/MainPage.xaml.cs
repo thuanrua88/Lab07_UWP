@@ -32,15 +32,22 @@ namespace U41
         {
             this.InitializeComponent();
 
-            Icons = new List<Icon>
-            {
-                new Icon { IconPath = "Assets/male-01.png" },
-                new Icon { IconPath = "Assets/male-02.png" },
-                new Icon { IconPath = "Assets/male-03.png" },
-                new Icon { IconPath = "Assets/female-01.png" },
-                new Icon { IconPath = "Assets/female-02.png" },
-                new Icon { IconPath = "Assets/female-03.png" }
-            };
+            Icons = new List<Icon>();
+            //{
+            //    new Icon { IconPath = "Assets/male-01.png" },
+            //    new Icon { IconPath = "Assets/male-02.png" },
+            //    new Icon { IconPath = "Assets/male-03.png" },
+            //    new Icon { IconPath = "Assets/female-01.png" },
+            //    new Icon { IconPath = "Assets/female-02.png" },
+            //    new Icon { IconPath = "Assets/female-03.png" }
+            //};
+            Icons.Add(new Icon { IconPath = "Assets/male-01.png" });
+            Icons.Add(new Icon { IconPath = "Assets/male-02.png" });
+            Icons.Add(new Icon { IconPath = "Assets/male-03.png" });
+            Icons.Add(new Icon { IconPath = "Assets/female-01.png" });
+            Icons.Add(new Icon { IconPath = "Assets/female-02.png" });
+            Icons.Add(new Icon { IconPath = "Assets/female-03.png" });
+
 
             Contacts = new ObservableCollection<Contact>();
             Contacts.Add(new Contact { FirstName = "Dang Kim", LastName = "Thi", AvatarPath = "Assets/female-01.png" });

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4b64de70-b2e6-439a-b140-0eabb8ef16f4</PackageIdentityName>
     <PackageIdentityPublisher>CN=pc</PackageIdentityPublisher>
-    <IntermediateOutputPath>F:\UWP\U41\U41\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\UWP\Lab07_UWP\U41\U41\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>F:\UWP\U41\U41\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>DF5EB5741E7293A40028AE650E588741428AEEC90401DCCBB0BF168573BF8F9D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4b64de70-b2e6-439a-b140-0eabb8ef16f4_1.0.0.0_x86__savbypjtf9g9c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4b64de70-b2e6-439a-b140-0eabb8ef16f4_savbypjtf9g9c!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\UWP\U41\U41\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-17T04:52:43.345</Modified>
+      <Modified>2020-10-20T03:59:19.017</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\U41.exe">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\U41.exe">
       <PackagePath>entrypoint\U41.exe</PackagePath>
-      <Modified>2020-10-17T04:52:42.903</Modified>
+      <Modified>2020-10-20T03:59:18.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,95 +46,95 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T11:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\female-01.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\female-01.png">
       <PackagePath>Assets\female-01.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\female-02.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\female-02.png">
       <PackagePath>Assets\female-02.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\female-03.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\female-03.png">
       <PackagePath>Assets\female-03.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\male-01.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\male-01.png">
       <PackagePath>Assets\male-01.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\male-02.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\male-02.png">
       <PackagePath>Assets\male-02.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\male-03.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\male-03.png">
       <PackagePath>Assets\male-03.png</PackagePath>
       <Modified>2015-09-30T02:50:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-10-02T16:11:13.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-10-02T16:11:13.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-10-17T04:01:45.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\U41.xr.xml">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\U41.xr.xml">
       <PackagePath>U41.xr.xml</PackagePath>
-      <Modified>2020-10-17T04:41:59.061</Modified>
+      <Modified>2020-10-20T03:59:18.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-17T04:52:42.762</Modified>
+      <Modified>2020-10-20T03:59:18.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-10-17T04:52:42.762</Modified>
+      <Modified>2020-10-20T03:59:18.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\MyUserControl1.xbf">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\MyUserControl1.xbf">
       <PackagePath>MyUserControl1.xbf</PackagePath>
-      <Modified>2020-10-17T04:52:42.762</Modified>
+      <Modified>2020-10-20T03:59:18.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T10:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2020-10-17T04:52:42.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\UWP\U41\U41\bin\x86\Debug\Core\U41.exe">
+    <AppxPackagedFile Include="F:\UWP\Lab07_UWP\U41\U41\bin\x86\Debug\Core\U41.exe">
       <PackagePath>U41.exe</PackagePath>
-      <Modified>2020-10-17T04:52:43.342</Modified>
+      <Modified>2020-10-20T03:59:19.010</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

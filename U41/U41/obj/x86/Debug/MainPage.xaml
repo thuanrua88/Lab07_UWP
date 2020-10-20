@@ -33,11 +33,11 @@
             <TextBlock Grid.Row="2" Text="Avatar:" VerticalAlignment="Center" Margin="10"/>
             <ComboBox x:ConnectionId='7' Name="AvatarCombobox" Height="50" Width="100" Grid.Row="2"
                       Grid.Column="1"                              Margin="10">
-                <ComboBox.Items>
+                <ComboBox.ItemTemplate>
                     <DataTemplate                       >
                         <Image x:ConnectionId='10'                            Width="40" Height="40"/>
                     </DataTemplate>
-                </ComboBox.Items>
+                </ComboBox.ItemTemplate>
             </ComboBox>
             <Button x:ConnectionId='8' Grid.Row="3" Grid.ColumnSpan="1" Name="NewContactButton"
                                                    Content="Add" Margin="10"/>

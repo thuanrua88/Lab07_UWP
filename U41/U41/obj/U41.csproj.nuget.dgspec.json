@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\UWP\\U41\\U41\\U41.csproj": {}
+    "F:\\UWP\\Lab07_UWP\\U41\\U41\\U41.csproj": {}
   },
   "projects": {
-    "F:\\UWP\\U41\\U41\\U41.csproj": {
+    "F:\\UWP\\Lab07_UWP\\U41\\U41\\U41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\UWP\\U41\\U41\\U41.csproj",
+        "projectUniqueName": "F:\\UWP\\Lab07_UWP\\U41\\U41\\U41.csproj",
         "projectName": "U41",
-        "projectPath": "F:\\UWP\\U41\\U41\\U41.csproj",
+        "projectPath": "F:\\UWP\\Lab07_UWP\\U41\\U41\\U41.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "F:\\UWP\\U41\\U41\\obj\\",
+        "outputPath": "F:\\UWP\\Lab07_UWP\\U41\\U41\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
